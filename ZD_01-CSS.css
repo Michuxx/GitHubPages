@@ -1,0 +1,27 @@
+body {
+  background-color: rebeccapurple;
+}
+#content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 100%;
+  width: 100%;
+  background-color: lightskyblue;
+}
+.form {
+  width: 20rem;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  flex-direction: column;
+}
+
+.podstrony {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 22px;
+}
